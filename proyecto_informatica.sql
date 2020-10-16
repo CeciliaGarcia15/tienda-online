@@ -61,7 +61,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`contra`, `usuario`, `email`) VALUES
-('41159163', 'cecilia_garcia', 'cecilia15-5@hotmail.com');
+('tom14', 'cecilia_garcia', 'cecilia15-5@hotmail.com');
 
 --
 -- Índices para tablas volcadas
